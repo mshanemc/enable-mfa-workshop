@@ -17,7 +17,8 @@
     },
     "securitySettings": {
       "passwordPolicies": {
-        "enableSetPasswordInApi": true
+        "enableSetPasswordInApi": true,
+        "complexity": "NoRestriction"
       }
     }
   },
